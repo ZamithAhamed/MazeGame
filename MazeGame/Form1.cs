@@ -16,5 +16,15 @@ namespace MazeGame
         {
             InitializeComponent();
         }
+
+        private void Label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Label26_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
